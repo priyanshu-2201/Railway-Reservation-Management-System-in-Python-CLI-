@@ -1,0 +1,5 @@
+-----------------------------------------OBJECTIVE----------------------
+Indian Railways operates both long distances,as well as sub_urban rail systems.
+It operates 8702 passenger trains and transports. Due to this huge spread of Indian Railways,
+the system cannot sustain without computers, which have programs built for its smooth functioning.
+This project deals with the Indian Railways and presents a system to digitize the system.
